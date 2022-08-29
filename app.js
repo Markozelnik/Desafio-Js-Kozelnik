@@ -45,6 +45,12 @@ while (salir != 1){
 
 }
 
+
+
+
+
+
+
 /*probe tambien esta opcion que seria si ingresas opciones de 1 a 4 entonces deportes es ese numero y sera igual ... entonces te sale el promp de salir y todo el resto */ 
 /*
         if (deporte == 1 || deporte == 2 || deporte == 3 || deporte == 4)
