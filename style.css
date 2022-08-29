@@ -1,0 +1,12 @@
+/*aplicandole estilo al titulo del desafio*/
+.divtituloprin{
+    display: flex;
+
+}
+.tituloprincipal{
+    display: flex;
+    justify-content: start;
+    color: black;
+    
+
+}
